@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 41064f278449bce49a40271f363a3f31, type: 3}
+  m_Name: Boost
+  m_EditorClassIdentifier: 
+  ItemName: Boost
+  description: Corra mais rapido
+  value: 5
+  type: 2
+  icon: {fileID: 2730712949329503041, guid: c877506e440f0d445b448a2dc9805b38, type: 3}
+  armorBonus: 6
+  durability: 10
